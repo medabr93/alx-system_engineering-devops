@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -la)$(ls  -la /boot)$(ls -la /root)"
+echo "$(ls -la)$(ls  -la /boot)$(ls -la /alx-system_engineering-devops)"
